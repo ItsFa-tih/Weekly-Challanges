@@ -10,7 +10,7 @@ First, let's start with some calculations on a list of prices for 5 loans.
     1. Use the `len` function to calculate the total number of loans in the list.
     2. Use the `sum` function to calculate the total of all loans in the list.
     3. Using the sum of all loans and the total number of loans, calculate the average loan price.
-    4. Print all calculations with descriptive messages.
+    4. Print all calculations with descriptive messages. Message#1
 """
 loan_costs = [500, 600, 200, 1000, 450]
 print(f'There are {len(loan_costs)} loans in this list. (Line 16)')
